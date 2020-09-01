@@ -7,7 +7,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
+1. https://www.ben-g.nl
 2. -bron 2-
 3. -...-
 
@@ -59,7 +59,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je startniveau:** Blauw
 
-**Je focus:** Extra aandacht voor dee surface laag
+**Je focus:** Extra aandacht voor de surface laag
 
 **Je opdracht:** https://www.ben-g.nl
 
