@@ -42,10 +42,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -dit ging goed & dit was lastig-
 
 **Screenshot(s):**
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-]
-(images/ScreenShot.Ben-g1.png)
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-]
-(images/ScreenShot.Ben-g2.png)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/ScreenShot.Ben-g1.png)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/ScreenShot.Ben-g2.png)
 ### Agenda voor meeting
 
 Dingen die we behandeld willen hebben:
@@ -65,11 +65,11 @@ Dingen die we behandeld willen hebben:
 
 ## Intake (week 1)
 
-**Je startniveau:** -kblauw-
+**Je startniveau:** -blauw-
 
 **Je focus:** -surface plane-
 
-**Je opdracht:** -Been-g.nl-
+**Je opdracht:** -Ben-g.nl-
 
 **Screenshot(s):**
 
