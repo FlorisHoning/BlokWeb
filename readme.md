@@ -1,13 +1,12 @@
-https://florishoning.github.io/BlokWeb/
 # Procesverslag
-**Auteur:** Floris Honing
+**Auteur:** -jouw naam-
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
 
 ## Bronnenlijst
-1. https://www.ben-g.nl
+1. -bron 1-
 2. -bron 2-
 3. -...-
 
@@ -47,12 +46,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Agenda voor meeting
 
-- Responsive design (breakpoint) [Djescho]
-- Scrollen met javascricpt [Djescho]
-- Main en header vouwen inelkaar over de hero heen [Celine]
-- Afbeeldingen in CSS [Floris en Djescho]
-- wel goed doen [Djescho]
-- Lege plek [Floris]
+-samen met je groepje opstellen-
 
 ### Verslag van meeting
 
@@ -62,17 +56,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** Blauw
+**Je startniveau:** -kies uit zwart, rood óf blauw-
 
-**Je focus:** Extra aandacht voor de surface laag
+**Je focus:** -kies uit responsive óf surface plane-
 
-**Je opdracht:** https://www.ben-g.nl
+**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
-**Screenshot(s)/**Breakdown-schets(en):**
+**Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken]
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Ben-g.Github.Frontend.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 
+**Breakdown-schets(en):**
 
-
-
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
