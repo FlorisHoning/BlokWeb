@@ -47,7 +47,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+- Responsive design (breakpoint) [Djescho]
+- Scrollen met javascricpt [Djescho]
+- Main en header vouwen inelkaar over de hero heen [Celine]
+- Afbeeldingen in CSS [Floris en Djescho]
+- wel goed doen [Djescho]
+- Lege plek [Floris]
 
 ### Verslag van meeting
 
