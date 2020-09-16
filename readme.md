@@ -43,11 +43,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
-
+(images/ScreenShot.Ben-g1.png)
+(images/ScreenShot.Ben-g2.png)
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+Dingen die we behandeld willen hebben:
+
+- Responsive design (breakpoint) [Djescho]
+- Scrollen met javascricpt [Djescho]
+- Main en header vouwen inelkaar over de hero heen [Celine]
+- Afbeeldingen in CSS [Floris en Djescho]
+- wel goed doen [Djescho]
+- Lege plek [Floris]
 
 ### Verslag van meeting
 
@@ -57,16 +64,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** -kblauw-
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** -surface plane-
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** -Been-g.nl-
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
-
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Ben-g.Github.Frontend.png)
