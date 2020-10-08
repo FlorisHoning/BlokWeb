@@ -27,7 +27,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
-Ik heb voor deze keer de footer en het stukje daarboven gemmaakt. Dit maakt de eerste pagina nu zo goed als compleet. Bij het toevoegen van een email input web ik moeten werken met een nieuwe gradient. Deze is helemaal wit en heeft zwarte schuine dashes. [      ///] het is gelukt om dit te maken alleen moet ik het nu responsive zien te krijgen. Het moet namelijk in het midden blijven staan ipv naar de zijkant schuiven.
+Ik heb voor deze keer het stukje boven de footer gemaakt. Dit maakt de eerste pagina nu zo goed als compleet. Bij het toevoegen van een email input web ik moeten werken met een nieuwe gradient. Deze is helemaal wit en heeft zwarte schuine dashes. [      ///] het is gelukt om dit te maken alleen moet ik het nu responsive zien te krijgen. Het moet namelijk in het midden blijven staan ipv naar de zijkant schuiven.
 
 **Screenshot(s):**
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](footerdash.png)
@@ -56,6 +56,7 @@ De website gaat goed. Ik heb via internet een manier gevonden om afbeeldingen ui
 Daarnaast ben ik begonnen aan de footer van de pagina.
 
 **Screenshot(s):**
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](voortgangssfooter.png)
 
 ### Agenda voor meeting
 | Celine | Djescho | Floris |
@@ -66,7 +67,7 @@ Daarnaast ben ik begonnen aan de footer van de pagina.
 | First class is free section met meebewegende (achtergrond?) afbeelding |  |  |
 | Afbeelding correct uitknippen / plaatsen op basis van schermgrootte |  |  |
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](voortgangssfooter.png)
+
 
 ### Verslag van meeting
 
