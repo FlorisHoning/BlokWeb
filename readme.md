@@ -30,6 +30,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Ik heb voor deze keer de footer en het stukje daarboven gemmaakt. Dit maakt de eerste pagina nu zo goed als compleet. Bij het toevoegen van een email input web ik moeten werken met een nieuwe gradient. Deze is helemaal wit en heeft zwarte schuine dashes. [      ///] het is gelukt om dit te maken alleen moet ik het nu responsive zien te krijgen. Het moet namelijk in het midden blijven staan ipv naar de zijkant schuiven.
 
 **Screenshot(s):**
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Schermafbeelding 2020-09-28 om 14.49.03.png)
 
 ### Agenda voor meeting
 | Celine | Djescho | Floris |
@@ -40,7 +41,7 @@ Ik heb voor deze keer de footer en het stukje daarboven gemmaakt. Dit maakt de e
 | Timing tekst animaties (inschuiven vanaf de zijkant tijdens het scrollen) |  |  |
 | First class is free section met meebewegende (achtergrond/overlay?) afbeelding |  |  |
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/ScreenShot.Ben-g1.png)
+
 
 ### Verslag van meeting
 
