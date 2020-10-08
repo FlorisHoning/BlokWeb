@@ -31,7 +31,7 @@ Ik heb voor deze keer het stukje boven de footer gemaakt. Dit maakt de eerste pa
 
 **Screenshot(s):**
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](footerdash.png)
-
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](footerdashbeter.png)
 ### Agenda voor meeting
 | Celine | Djescho | Floris |
 |--------|:-------:|-------:|
