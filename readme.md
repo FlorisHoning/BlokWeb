@@ -53,6 +53,7 @@ Ik heb voor deze keer de footer en het stukje daarboven gemmaakt. Dit maakt de e
 ### Stand van zaken
 
 De website gaat goed. Ik heb via internet een manier gevonden om afbeeldingen uit te snijden maar door dit te gebruiken moet ik werken met negatieve margin en andere rare dingen. Daarom vraag ik in het gesprek hoe dit beter kan.
+Daarnaast ben ik begonnen aan de footer van de pagina.
 
 **Screenshot(s):**
 
@@ -65,7 +66,7 @@ De website gaat goed. Ik heb via internet een manier gevonden om afbeeldingen ui
 | First class is free section met meebewegende (achtergrond?) afbeelding |  |  |
 | Afbeelding correct uitknippen / plaatsen op basis van schermgrootte |  |  |
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/ScreenShot.Ben-g1.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](voortgangssfooter.png)
 
 ### Verslag van meeting
 
