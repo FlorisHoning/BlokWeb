@@ -45,7 +45,8 @@ Ik heb voor deze keer het stukje boven de footer gemaakt. Dit maakt de eerste pa
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+In eerste instantie heb ik de lijntjes tussen social media links gemaakt doormiddel van een gradient. Echter bij responsive design werd deze meegetrokken naar de zijkant. Dit heb ik kunnen oplossen met hulp doormiddel van het maken van nieuwe divs die een border hebben aan de rechterkant. Door vervolgens de parent de content te laten centeren blijft alles goed in het midden staan.
+
 
 
 ## Voortgang 2 (week 5)
