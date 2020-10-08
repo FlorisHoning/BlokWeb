@@ -25,6 +25,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
+### Stand van zaken
+
+Ik heb voor deze keer de footer en het stukje daarboven gemmaakt. Dit maakt de eerste pagina nu zo goed als compleet. Bij het toevoegen van een email input web ik moeten werken met een nieuwe gradient. Deze is helemaal wit en heeft zwarte schuine dashes. [      ///] het is gelukt om dit te maken alleen moet ik het nu responsive zien te krijgen. Het moet namelijk in het midden blijven staan ipv naar de zijkant schuiven.
+
+**Screenshot(s):**
+
+### Agenda voor meeting
 | Celine | Djescho | Floris |
 |--------|:-------:|-------:|
 | Responsiveness afbeeldingsgrootte | (Nog) geen vragen | Wat kan ik toevoegen om aan de surface plane te voldoen, want overal animaties bij maakt het niet beter |
@@ -33,10 +40,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 | Timing tekst animaties (inschuiven vanaf de zijkant tijdens het scrollen) |  |  |
 | First class is free section met meebewegende (achtergrond/overlay?) afbeelding |  |  |
 
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/ScreenShot.Ben-g1.png)
+
+### Verslag van meeting
+
+-na afloop snel uitkomsten vastleggen-
 
 
 ## Voortgang 2 (week 5)
 
+### Stand van zaken
+
+De website gaat goed. Ik heb via internet een manier gevonden om afbeeldingen uit te snijden maar door dit te gebruiken moet ik werken met negatieve margin en andere rare dingen. Daarom vraag ik in het gesprek hoe dit beter kan.
+
+**Screenshot(s):**
+
+### Agenda voor meeting
 | Celine | Djescho | Floris |
 |--------|:-------:|-------:|
 | Transitie in elkaar vouwen van header en main over de hero (header begint transparant en verkleurd bij het "vouwen") | Ik krijg de scroll knoppen maar niet werkende :) | Wat kan ik toevoegen om aan de surface plane te voldoen, want overal animaties bij maakt het niet beter |
@@ -45,13 +64,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 | First class is free section met meebewegende (achtergrond?) afbeelding |  |  |
 | Afbeelding correct uitknippen / plaatsen op basis van schermgrootte |  |  |
 
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/ScreenShot.Ben-g1.png)
+
+### Verslag van meeting
+
+De meeting was handig, scrollsnap en een aantal andere dingen hebben de overflowing lijst mooier gemaakt. Ik wilde ook cut-outs maken van afbeeldingen binnen de pagina aan de hand van css. Dankzij Sanne is dit gelukt.
 
 
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+het opzetten van de website ging goed, ik ben begonnen met het toevoegen van genoeg content om de styling te kunnen doen. Een overflowing scrollbar toevoegen ging minder. Met hulp werkt deze nu met scrollsnap en flowd hij mooi buiten de pagina.
 
 **Screenshot(s):**
 
@@ -71,7 +95,7 @@ Dingen die we behandeld willen hebben:
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+ Door mee te kijken en te helpen bij Djescho en Celine heb ik nog wat opgestoken over responsive design.
 
 
 
