@@ -25,13 +25,25 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+| Celine | Djescho | Floris |
+|--------|:-------:|-------:|
+| Responsiveness afbeeldingsgrootte | (Nog) geen vragen | Wat kan ik toevoegen om aan de surface plane te voldoen, want overal animaties bij maakt het niet beter |
+| Zoekbalk 'pop-up' |  | Items in een gradient op hun plek laten bij responsive |
+| Responsiveness van hamburger menu icoon naar menu-items naast elkaar uigelijnd in navigatiebalk |  |  |
+| Timing tekst animaties (inschuiven vanaf de zijkant tijdens het scrollen) |  |  |
+| First class is free section met meebewegende (achtergrond/overlay?) afbeelding |  |  |
 
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+| Celine | Djescho | Floris |
+|--------|:-------:|-------:|
+| Transitie in elkaar vouwen van header en main over de hero (header begint transparant en verkleurd bij het "vouwen") | Ik krijg de scroll knoppen maar niet werkende :) | Wat kan ik toevoegen om aan de surface plane te voldoen, want overal animaties bij maakt het niet beter |
+| Timing tekst animaties (inschuiven vanaf de zijkant tijdens het scrollen) |  |  |
+| Tekst op een makkelijke manier responsive uitlijnen |  |  |
+| First class is free section met meebewegende (achtergrond?) afbeelding |  |  |
+| Afbeelding correct uitknippen / plaatsen op basis van schermgrootte |  |  |
 
 
 
