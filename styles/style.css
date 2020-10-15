@@ -18,7 +18,7 @@ body {
 
 header {
 
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     right: 0;
@@ -63,7 +63,7 @@ header p {
     right: 4.5em;
 }
 
-header img:first-of-type {
+header a img:first-of-type {
     position: relative;
     width: 9em;
     left: 2.5em;
@@ -321,41 +321,42 @@ ul {
 
 
 #social {
-    background-image: linear-gradient(-73deg, white 2.5em, black 2.5em, white 2.55em, white 7.5em, black 7.5em, white 7.55em, white 12.5em, black 12.5em, white 12.55em, white 20em);
+    /*    background-image: linear-gradient(-73deg, white 2.5em, black 2.5em, white 2.55em, white 7.5em, black 7.5em, white 7.55em, white 12.5em, black 12.5em, white 12.55em, white 20em);*/
     left: 0;
     right: 0;
     /*    border-top: solid black 0.1px;*/
     height: 6em;
-    box-shadow: 0px 0 2px rgba(0, 0, 0, 0.8);
+    /*    box-shadow: 0px 0 2px rgba(0, 0, 0, 0.8);*/
+    box-shadow: 0 -1px 2px -2px #333;
     text-align: center;
-    /*
     display: flex;
-    flex-direction: row;
-*/
-
+    background-color: white;
+    justify-content: center;
 }
 
 #social p {
-    position: absolute;
+
     font-family: "proxima-nova", sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.15em;
     font-size: 1em;
-    margin: 2.5em 0 0 1em;
+    margin: 2.5em 2em 0 1em;
     font-weight: 100;
-    align-self: center;
 
+}
+
+#social div {
+    border-right: dotted 1px black;
+    width: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: skewX(-20deg);
 
 }
 
 #social img {
-    align-self: center;
-    top: 2.2em;
-    padding: 0;
-    position: relative;
-    left: 5em;
-    margin-right: 3.6em;
-
+    transform: skewX(20deg);
 }
 
 #Newsletter {
@@ -392,6 +393,7 @@ ul {
         sans-serif;
     font-weight: 100;
     letter-spacing: 0.1em;
+    outline: none;
 
 }
 
@@ -420,6 +422,7 @@ footer {
     font-family: 'Libre Baskerville', serif;
     text-transform: uppercase;
     font-weight: 100;
+    bottom: 0;
 
 }
 
@@ -444,3 +447,6 @@ footer img {
     border-radius: 3px;
 
 }
+
+/* media 769 px naar desktop
+misschien net als bij de desktopversie al images op banner laten rotaten*/
