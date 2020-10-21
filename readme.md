@@ -7,9 +7,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. Ben-g.nl
+2. https://codepen.io/FlorisCMD/pen/BaKMwWz
+3. codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6
 
 
 
@@ -20,6 +20,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
+Ik heb mijn eerste pagina afgemaakt en ben begonnen aan de 2e pagina. ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](fullfirstpage.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](desktopfirstpage.png)
+ik ben aan de slag gegaan met het responsive maken van de website, en het toevoegen van animaties en andere surface dingen. 
+Ik heb een media query gemaakt voor desktop grootte. Hier heb ik een animatie gegeven aan de zoekbalk als je op het icoontje klikt.
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](searchbalk.png)
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](2epagina.png)
+Het maken van de 2e pagina, de productpagina verliep prima. De pagina maakt gebruik van verschillende opties voor geld eenheden. Deze heb ik D.M.V buttons terug laten komen. ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](prices.png)
+Je hebt bij het product de optie om een maat aan te geven. Ik heb een dropdown menu gemaakt die aan de hand van hover wordt geactiveerd. ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](sizes.png) de Add button heb ik hover en active gegeven zodat je goed onderscheid ziet.
+De pagina een stukje met details onder het artikel. Dit komt door een klik op beeld. Ook dit werkt met een soort dropdown, alleen heb ik het in javascript gedaan met een classlist die de height verandert. Hierdoor klapt het stukje tekst open.
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](suggestions.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](details.png)
 
 
 
