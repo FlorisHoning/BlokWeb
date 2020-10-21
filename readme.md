@@ -26,6 +26,8 @@ Ik heb mijn eerste pagina afgemaakt en ben begonnen aan de 2e pagina. ![-voorlop
 ik ben aan de slag gegaan met het responsive maken van de website, en het toevoegen van animaties en andere surface dingen. 
 Ik heb een media query gemaakt voor desktop grootte. Hier heb ik een animatie gegeven aan de zoekbalk als je op het icoontje klikt.
 
+note: deze werkt alleen op de product pagina. door een andere lijn javascript werkt de searchbalk animatie op desktop niet op de index.html. Op de desktop versie van de productpagina werkt de searchbalk animatie wel.
+
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](searchbalk.png)
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](2epagina.png)
